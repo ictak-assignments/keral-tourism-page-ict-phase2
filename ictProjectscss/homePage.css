@@ -1,0 +1,40 @@
+h1,h2,button {
+    text-align: center;
+    margin: auto;      
+  }
+  h1{
+    color: aqua; 
+  }
+  li{
+    list-style: none;
+    text-align: justify;
+    margin-left: 40px;
+  }
+
+  button {
+  border: 0;
+  margin: 15px 90px;
+  background-color: #f1c40f;
+  font-weight: 400;
+}
+ 
+footer {
+  margin-top: 30px;
+  background-color: #ddd;
+  padding: 20px;
+}
+footer > span {
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.9em;
+  color: rgb(18, 135, 202);
+}
+
+.product  {
+  text-decoration: none;
+  text-align: center;
+  
+  
+
+}
